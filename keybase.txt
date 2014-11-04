@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/milanfort
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://milanfort.com
+  * I am milanfort (https://keybase.io/milanfort) on keybase.
+  * I have a public key with fingerprint 8D57 2C60 626B 4FDB 2565  9045 BD89 04AA 1140 6D45
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.2"
+        },
+        "key": {
+            "fingerprint": "8d572c60626b4fdb25659045bd8904aa11406d45",
+            "host": "keybase.io",
+            "key_id": "BD8904AA11406D45",
+            "uid": "3ab5275cffd86bb26c8ebd929b23ef00",
+            "username": "milanfort"
+        },
+        "service": {
+            "hostname": "milanfort.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1415133956,
+    "expire_in": 157680000,
+    "prev": null,
+    "seqno": 1,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGbwMvMwMS4t5NllaBDrivj6QNfkxhCIq1ZqpWS8lMqlayqlZJzMlPzSkCsvMTc
+VCUrpezUyqTE4lS9zHyFvPyUVL2sYgWoGh2lstSi4sz8PKAqAz1zPSOlWh2QcpDm
+tMy89NSigqJMkFlKFimm5kbJZgZmRmZJJmkpSUamZqaWBiamSSkWQCox0dDQxMAs
+xcQUaGRGfnEJiq1KYDPjM1OAok4uIPWOjmD1LmD1pWAJ48QkUyNz0+S0tBQLs6Qk
+I7Nki9SkFEsjyyQj49Q0AwOQwuLUIqiXcjNzEvPS8otKQA4GCpdlJqeCHA2yG12J
+XnJ+LlB3QVF+SX5yfg5QKqOkpMAKpLOksgCktDw1KR5qSHxSZl4K0OfIQWMIVJlc
+kgky1dDE0NTQ2NjS1ExHKbWiILMoNT4TpMLU3MzCAAhA1qSWKVnllebkgBxWmJcP
+lAValJgOtKc4Mz0vsaS0KFWptpNJhoWBkYmBjZUJFHsMXJwCsDi9KS7AsGXxz+4f
+dp421p+mv/gQcP2+sj1bzJYtRlOnHJnWGtFa7bs71iFrotNDmburkqY+rtz3dDHr
+Q6n775h+3tjn/Or0YZXWtEXLxex35zE6rchvvXlD3sMo/v2mMBW1iTdO/O3L5Dtm
+ujBRuu52wLPfPnHCkwrsuazuuTm5ZrEssrpYKJ1+UOWpi4/uId6D2uWs5mtkDPI2
+fZbJ8t0lpHD1wUKJyEnfq3Iv+/ofN5NoC8154tJz/ZVP+eSg58Isj5jPfDZfupH3
+PFPE5/UndGZLHN/29qSojmr4z8dCb+7/MI069y1qRlls/cVm3y3VBrEXAiuWe7mG
+WDucCZm8OGD2ZEXdR+civzusu9r0z/C9i8PEZ3POXI/TfbrnTsH+n+fk/nBv91y0
+bbHHkuKY3bwJU3JmSR1m4nKS7BOb2X5u4bz86MNrHa48XaKUeHTnTFlfD63Zv5pD
+gv471i9MXjFpkutfe3nNiTNm7NO77NfNrsZ+f6pZ08vZ7qLd77ZNWPz3humvevYZ
+FjYpLvICr2tU193p0b72yPzUSvYwSdNjapYB0/0rw8/5LXnRnFWgJzE74MGBeDsv
+xZ9Bgul5SZYa3eEpSme+Lp7T8n+541Nm6VPvdq9K6Y2Y+Gi/9J3FkhN49xXvETGw
+C+H6Wc0esHDh6UIpL4cckb0toTkzsizO65kdYStae6/Q1E7v7xy5Qya8W85wWZl9
+ymYuuJjuCAA=
+=6FiB
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/milanfort
+
+==================================================================
